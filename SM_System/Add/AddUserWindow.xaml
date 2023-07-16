@@ -1,0 +1,79 @@
+﻿<Window x:Class="SM_System.Add.AddUserWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SM_System.Add"
+        mc:Ignorable="d" WindowStartupLocation="CenterScreen" WindowStyle="None" AllowsTransparency="True" Background="Transparent"
+        Title="AddUserWindow" Height="450" Width="580">
+    <Window.DataContext>
+        <local:AddUserWindowVM/>
+    </Window.DataContext>
+    <Window.Resources>
+        <Style TargetType="Button" x:Key="RoundedButtonStyle">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border x:Name="border" CornerRadius="10" Background="#e67e22" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" SnapsToDevicePixels="true">
+                            <ContentPresenter x:Name="contentPresenter" Focusable="False" HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" Margin="{TemplateBinding Padding}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsDefaulted" Value="true">
+                                <Setter Property="BorderBrush" TargetName="border" Value="{DynamicResource {x:Static SystemColors.HighlightBrushKey}}"/>
+                            </Trigger>
+                            <Trigger Property="IsMouseOver" Value="true">
+                                <Setter Property="Background" TargetName="border" Value="#E2ca"/>
+                                <Setter Property="BorderBrush" TargetName="border" Value="#F1CA68"/>
+                            </Trigger>
+                            <Trigger Property="IsPressed" Value="true">
+                                <Setter Property="Background" TargetName="border" Value="khaki"/>
+                                <Setter Property="BorderBrush" TargetName="border" Value="olivedrab"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style TargetType="Button" x:Key="CloseButton">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border x:Name="border" CornerRadius="10" Background="#e74c3c" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" SnapsToDevicePixels="true">
+                            <ContentPresenter x:Name="contentPresenter" Focusable="False" HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" Margin="{TemplateBinding Padding}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsDefaulted" Value="true">
+                                <Setter Property="BorderBrush" TargetName="border" Value="{DynamicResource {x:Static SystemColors.HighlightBrushKey}}"/>
+                            </Trigger>
+                            <Trigger Property="IsMouseOver" Value="true">
+                                <Setter Property="Background" TargetName="border" Value="#c0392b"/>
+                                <Setter Property="BorderBrush" TargetName="border" Value="#243412"/>
+                            </Trigger>
+                            <Trigger Property="IsPressed" Value="true">
+                                <Setter Property="Background" TargetName="border" Value="Brown"/>
+                                <Setter Property="BorderBrush" TargetName="border" Value="#ff2354"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+    </Window.Resources>
+    <Grid Background="#2980b9" >
+        
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            
+            <TextBlock Text="Enter User Name" Margin="5"/>
+            <TextBox Background="#48dbfb" Text="{Binding UserName}" Width="150" Margin="5"/>
+            <TextBlock Text="Enter Password" Margin="5"/>
+            <TextBox Background="#48dbfb" Text="{Binding PasswordOne}"  Width="150" Margin="5"/>
+            <TextBlock Text="Enter Password Again" Margin="5"/>
+            <TextBox Background="#48dbfb" Text="{Binding PasswordTwo}" Width="150" Margin="5"/>
+            <CheckBox IsChecked="{Binding Isadmin}" Content="Admin" HorizontalContentAlignment="Center" Margin="20 10"
+                           HorizontalAlignment="Center"/>
+            <Button  Content="save" Command="{Binding AddUserCommand}" Width="60" Style="{StaticResource RoundedButtonStyle}"/>
+        </StackPanel>
+        <Button Content="X" Command="{Binding CloseWindowCommand}" Style="{StaticResource CloseButton}"  Height="23" Width="25" Margin="528 -400 0 0"/>
+    </Grid>
+</Window>

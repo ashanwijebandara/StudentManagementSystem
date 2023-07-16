@@ -1,0 +1,411 @@
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\SM_System.exe
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\SM_System.deps.json
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\SM_System.runtimeconfig.json
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\SM_System.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\SM_System.pdb
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\obj\Debug\net6.0-windows\SM_System.csproj.AssemblyReference.cache
+C:\Users\wijeb\source\repos\SM_System\SM_System\obj\Debug\net6.0-windows\Add\AddModuleWindow.g.cs
+C:\Users\wijeb\source\repos\SM_System\SM_System\obj\Debug\net6.0-windows\Add\AddStudentWindow.g.cs
+C:\Users\wijeb\source\repos\SM_System\SM_System\obj\Debug\net6.0-windows\Add\AddUserWindow.g.cs
+C:\Users\wijeb\source\repos\SM_System\SM_System\obj\Debug\net6.0-windows\Controls\ControlWindow.g.cs
+C:\Users\wijeb\source\repos\SM_System\SM_System\obj\Debug\net6.0-windows\LoginWindow.g.cs
+C:\Users\wijeb\source\repos\SM_System\SM_System\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\wijeb\source\repos\SM_System\SM_System\obj\Debug\net6.0-windows\View\ModuleWindow.g.cs
+C:\Users\wijeb\source\repos\SM_System\SM_System\obj\Debug\net6.0-windows\View\StudentWindow.g.cs
+C:\Users\wijeb\source\repos\SM_System\SM_System\obj\Debug\net6.0-windows\View\UserWindow.g.cs
+C:\Users\wijeb\source\repos\SM_System\SM_System\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\wijeb\source\repos\SM_System\SM_System\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\wijeb\source\repos\SM_System\SM_System\obj\Debug\net6.0-windows\SM_System_MarkupCompile.cache
+C:\Users\wijeb\source\repos\SM_System\SM_System\obj\Debug\net6.0-windows\SM_System_MarkupCompile.lref
+C:\Users\wijeb\source\repos\SM_System\SM_System\obj\Debug\net6.0-windows\Add\AddModuleWindow.baml
+C:\Users\wijeb\source\repos\SM_System\SM_System\obj\Debug\net6.0-windows\Add\AddStudentWindow.baml
+C:\Users\wijeb\source\repos\SM_System\SM_System\obj\Debug\net6.0-windows\Add\AddUserWindow.baml
+C:\Users\wijeb\source\repos\SM_System\SM_System\obj\Debug\net6.0-windows\Controls\ControlWindow.baml
+C:\Users\wijeb\source\repos\SM_System\SM_System\obj\Debug\net6.0-windows\LoginWindow.baml
+C:\Users\wijeb\source\repos\SM_System\SM_System\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\wijeb\source\repos\SM_System\SM_System\obj\Debug\net6.0-windows\View\ModuleWindow.baml
+C:\Users\wijeb\source\repos\SM_System\SM_System\obj\Debug\net6.0-windows\View\StudentWindow.baml
+C:\Users\wijeb\source\repos\SM_System\SM_System\obj\Debug\net6.0-windows\View\UserWindow.baml
+C:\Users\wijeb\source\repos\SM_System\SM_System\obj\Debug\net6.0-windows\SM_System.g.resources
+C:\Users\wijeb\source\repos\SM_System\SM_System\obj\Debug\net6.0-windows\SM_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wijeb\source\repos\SM_System\SM_System\obj\Debug\net6.0-windows\SM_System.AssemblyInfoInputs.cache
+C:\Users\wijeb\source\repos\SM_System\SM_System\obj\Debug\net6.0-windows\SM_System.AssemblyInfo.cs
+C:\Users\wijeb\source\repos\SM_System\SM_System\obj\Debug\net6.0-windows\SM_System.csproj.CoreCompileInputs.cache
+C:\Users\wijeb\source\repos\SM_System\SM_System\obj\Debug\net6.0-windows\SM_System.csproj.CopyComplete
+C:\Users\wijeb\source\repos\SM_System\SM_System\obj\Debug\net6.0-windows\SM_System.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\obj\Debug\net6.0-windows\refint\SM_System.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\obj\Debug\net6.0-windows\SM_System.pdb
+C:\Users\wijeb\source\repos\SM_System\SM_System\obj\Debug\net6.0-windows\SM_System.genruntimeconfig.cache
+C:\Users\wijeb\source\repos\SM_System\SM_System\obj\Debug\net6.0-windows\ref\SM_System.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\wijeb\source\repos\SM_System\SM_System\bin\Debug\net6.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\SM_System.exe
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\SM_System.deps.json
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\SM_System.runtimeconfig.json
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\SM_System.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\SM_System.pdb
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\Humanizer.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Core.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Material.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Microns.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Modern.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\System.Text.Json.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\obj\Debug\net6.0-windows\SM_System.csproj.AssemblyReference.cache
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\obj\Debug\net6.0-windows\Add\AddModuleWindow.g.cs
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\obj\Debug\net6.0-windows\Add\AddStudentWindow.g.cs
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\obj\Debug\net6.0-windows\Add\AddUserWindow.g.cs
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\obj\Debug\net6.0-windows\Controls\ControlWindow.g.cs
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\obj\Debug\net6.0-windows\LoginWindow.g.cs
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\obj\Debug\net6.0-windows\MainWindow.g.cs
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\obj\Debug\net6.0-windows\View\ModuleWindow.g.cs
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\obj\Debug\net6.0-windows\View\StudentWindow.g.cs
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\obj\Debug\net6.0-windows\View\UserWindow.g.cs
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\obj\Debug\net6.0-windows\App.g.cs
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\obj\Debug\net6.0-windows\SM_System_MarkupCompile.cache
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\obj\Debug\net6.0-windows\SM_System_MarkupCompile.lref
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\obj\Debug\net6.0-windows\Add\AddModuleWindow.baml
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\obj\Debug\net6.0-windows\Add\AddStudentWindow.baml
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\obj\Debug\net6.0-windows\Add\AddUserWindow.baml
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\obj\Debug\net6.0-windows\Controls\ControlWindow.baml
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\obj\Debug\net6.0-windows\LoginWindow.baml
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\obj\Debug\net6.0-windows\MainWindow.baml
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\obj\Debug\net6.0-windows\View\ModuleWindow.baml
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\obj\Debug\net6.0-windows\View\StudentWindow.baml
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\obj\Debug\net6.0-windows\View\UserWindow.baml
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\obj\Debug\net6.0-windows\SM_System.g.resources
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\obj\Debug\net6.0-windows\SM_System.GeneratedMSBuildEditorConfig.editorconfig
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\obj\Debug\net6.0-windows\SM_System.AssemblyInfoInputs.cache
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\obj\Debug\net6.0-windows\SM_System.AssemblyInfo.cs
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\obj\Debug\net6.0-windows\SM_System.csproj.CoreCompileInputs.cache
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\obj\Debug\net6.0-windows\SM_System.csproj.CopyComplete
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\obj\Debug\net6.0-windows\SM_System.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\obj\Debug\net6.0-windows\refint\SM_System.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\obj\Debug\net6.0-windows\SM_System.pdb
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\obj\Debug\net6.0-windows\SM_System.genruntimeconfig.cache
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System\obj\Debug\net6.0-windows\ref\SM_System.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\SM_System.exe
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\SM_System.deps.json
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\SM_System.runtimeconfig.json
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\SM_System.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\SM_System.pdb
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\Humanizer.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Core.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Material.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Microns.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Modern.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+D:\SM_System\SM_System\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\SM_System\SM_System\obj\Debug\net6.0-windows\SM_System.csproj.AssemblyReference.cache
+D:\SM_System\SM_System\obj\Debug\net6.0-windows\Add\AddModuleWindow.g.cs
+D:\SM_System\SM_System\obj\Debug\net6.0-windows\Add\AddStudentWindow.g.cs
+D:\SM_System\SM_System\obj\Debug\net6.0-windows\Add\AddUserWindow.g.cs
+D:\SM_System\SM_System\obj\Debug\net6.0-windows\Controls\ControlWindow.g.cs
+D:\SM_System\SM_System\obj\Debug\net6.0-windows\LoginWindow.g.cs
+D:\SM_System\SM_System\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\SM_System\SM_System\obj\Debug\net6.0-windows\View\ModuleWindow.g.cs
+D:\SM_System\SM_System\obj\Debug\net6.0-windows\View\StudentWindow.g.cs
+D:\SM_System\SM_System\obj\Debug\net6.0-windows\View\UserWindow.g.cs
+D:\SM_System\SM_System\obj\Debug\net6.0-windows\App.g.cs
+D:\SM_System\SM_System\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\SM_System\SM_System\obj\Debug\net6.0-windows\SM_System_MarkupCompile.cache
+D:\SM_System\SM_System\obj\Debug\net6.0-windows\SM_System_MarkupCompile.lref
+D:\SM_System\SM_System\obj\Debug\net6.0-windows\Add\AddModuleWindow.baml
+D:\SM_System\SM_System\obj\Debug\net6.0-windows\Add\AddStudentWindow.baml
+D:\SM_System\SM_System\obj\Debug\net6.0-windows\Add\AddUserWindow.baml
+D:\SM_System\SM_System\obj\Debug\net6.0-windows\Controls\ControlWindow.baml
+D:\SM_System\SM_System\obj\Debug\net6.0-windows\LoginWindow.baml
+D:\SM_System\SM_System\obj\Debug\net6.0-windows\MainWindow.baml
+D:\SM_System\SM_System\obj\Debug\net6.0-windows\View\ModuleWindow.baml
+D:\SM_System\SM_System\obj\Debug\net6.0-windows\View\StudentWindow.baml
+D:\SM_System\SM_System\obj\Debug\net6.0-windows\View\UserWindow.baml
+D:\SM_System\SM_System\obj\Debug\net6.0-windows\SM_System.g.resources
+D:\SM_System\SM_System\obj\Debug\net6.0-windows\SM_System.GeneratedMSBuildEditorConfig.editorconfig
+D:\SM_System\SM_System\obj\Debug\net6.0-windows\SM_System.AssemblyInfoInputs.cache
+D:\SM_System\SM_System\obj\Debug\net6.0-windows\SM_System.AssemblyInfo.cs
+D:\SM_System\SM_System\obj\Debug\net6.0-windows\SM_System.csproj.CoreCompileInputs.cache
+D:\SM_System\SM_System\obj\Debug\net6.0-windows\SM_System.csproj.CopyComplete
+D:\SM_System\SM_System\obj\Debug\net6.0-windows\SM_System.dll
+D:\SM_System\SM_System\obj\Debug\net6.0-windows\refint\SM_System.dll
+D:\SM_System\SM_System\obj\Debug\net6.0-windows\SM_System.pdb
+D:\SM_System\SM_System\obj\Debug\net6.0-windows\SM_System.genruntimeconfig.cache
+D:\SM_System\SM_System\obj\Debug\net6.0-windows\ref\SM_System.dll

@@ -1,0 +1,402 @@
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\CoverletSourceRootsMapping
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\testhost.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\SM_System.deps.json
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\SM_System.runtimeconfig.json
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\SM_System.exe
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\testhost.exe
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\xunit.runner.reporters.netcoreapp10.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\xunit.runner.utility.netcoreapp10.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\SM_System.Tests.deps.json
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\SM_System.Tests.runtimeconfig.json
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\SM_System.Tests.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\SM_System.Tests.pdb
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\FluentAssertions.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Core.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Material.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Microns.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Modern.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CoreUtilities.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.PlatformAbstractions.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CommunicationUtilities.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CrossPlatEngine.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.Utilities.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.Common.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\NuGet.Frameworks.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\System.Text.Json.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\xunit.abstractions.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\xunit.assert.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\xunit.core.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\xunit.execution.dotnet.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\SM_System.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\SM_System.pdb
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\obj\Debug\net6.0-windows\SM_System.Tests.csproj.AssemblyReference.cache
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\obj\Debug\net6.0-windows\SM_System.Tests.GeneratedMSBuildEditorConfig.editorconfig
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\obj\Debug\net6.0-windows\SM_System.Tests.AssemblyInfoInputs.cache
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\obj\Debug\net6.0-windows\SM_System.Tests.AssemblyInfo.cs
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\obj\Debug\net6.0-windows\SM_System.Tests.csproj.CoreCompileInputs.cache
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\obj\Debug\net6.0-windows\SM_System.Tests.csproj.CopyComplete
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\obj\Debug\net6.0-windows\SM_System.Tests.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\obj\Debug\net6.0-windows\refint\SM_System.Tests.dll
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\obj\Debug\net6.0-windows\SM_System.Tests.pdb
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\obj\Debug\net6.0-windows\SM_System.Tests.genruntimeconfig.cache
+G:\Lec Recordings\3rd\GUI\GroupProjectSara\SM_System\SM_System.Tests\obj\Debug\net6.0-windows\ref\SM_System.Tests.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\CoverletSourceRootsMapping
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\testhost.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\SM_System.deps.json
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\SM_System.runtimeconfig.json
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\SM_System.exe
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\testhost.exe
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\xunit.runner.reporters.netcoreapp10.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\xunit.runner.utility.netcoreapp10.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\SM_System.Tests.deps.json
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\SM_System.Tests.runtimeconfig.json
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\SM_System.Tests.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\SM_System.Tests.pdb
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\FluentAssertions.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Core.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Material.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Microns.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Modern.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CoreUtilities.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.Utilities.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\NuGet.Frameworks.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\xunit.abstractions.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\xunit.assert.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\xunit.core.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\xunit.execution.dotnet.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\SM_System.dll
+D:\SM_System\SM_System.Tests\bin\Debug\net6.0-windows\SM_System.pdb
+D:\SM_System\SM_System.Tests\obj\Debug\net6.0-windows\SM_System.Tests.csproj.AssemblyReference.cache
+D:\SM_System\SM_System.Tests\obj\Debug\net6.0-windows\SM_System.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\SM_System\SM_System.Tests\obj\Debug\net6.0-windows\SM_System.Tests.AssemblyInfoInputs.cache
+D:\SM_System\SM_System.Tests\obj\Debug\net6.0-windows\SM_System.Tests.AssemblyInfo.cs
+D:\SM_System\SM_System.Tests\obj\Debug\net6.0-windows\SM_System.Tests.csproj.CoreCompileInputs.cache
+D:\SM_System\SM_System.Tests\obj\Debug\net6.0-windows\SM_System.Tests.csproj.CopyComplete
+D:\SM_System\SM_System.Tests\obj\Debug\net6.0-windows\SM_System.Tests.dll
+D:\SM_System\SM_System.Tests\obj\Debug\net6.0-windows\refint\SM_System.Tests.dll
+D:\SM_System\SM_System.Tests\obj\Debug\net6.0-windows\SM_System.Tests.pdb
+D:\SM_System\SM_System.Tests\obj\Debug\net6.0-windows\SM_System.Tests.genruntimeconfig.cache
+D:\SM_System\SM_System.Tests\obj\Debug\net6.0-windows\ref\SM_System.Tests.dll

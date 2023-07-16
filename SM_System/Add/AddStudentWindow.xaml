@@ -1,0 +1,144 @@
+﻿<Window x:Class="SM_System.Add.AddStudentWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SM_System.Add"
+        mc:Ignorable="d" WindowStyle="None" AllowsTransparency="True" Background="Transparent"
+        Title="AddStudentWindow" Height="650" Width="600"
+        WindowStartupLocation="CenterScreen">
+    <Window.DataContext>
+        <local:AddStudentWindowVM/>
+    </Window.DataContext>
+    <Window.Resources>
+        <Style TargetType="Button" x:Key="RoundedButtonStyle">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border x:Name="border" CornerRadius="10" Background="#e67e22" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" SnapsToDevicePixels="true">
+                            <ContentPresenter x:Name="contentPresenter" Focusable="False" HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" Margin="{TemplateBinding Padding}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsDefaulted" Value="true">
+                                <Setter Property="BorderBrush" TargetName="border" Value="{DynamicResource {x:Static SystemColors.HighlightBrushKey}}"/>
+                            </Trigger>
+                            <Trigger Property="IsMouseOver" Value="true">
+                                <Setter Property="Background" TargetName="border" Value="#E2ca"/>
+                                <Setter Property="BorderBrush" TargetName="border" Value="#F1CA68"/>
+                            </Trigger>
+                            <Trigger Property="IsPressed" Value="true">
+                                <Setter Property="Background" TargetName="border" Value="khaki"/>
+                                <Setter Property="BorderBrush" TargetName="border" Value="olivedrab"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style TargetType="Button" x:Key="CloseButton">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border x:Name="border" CornerRadius="10" Background="#e74c3c" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" SnapsToDevicePixels="true">
+                            <ContentPresenter x:Name="contentPresenter" Focusable="False" HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" Margin="{TemplateBinding Padding}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsDefaulted" Value="true">
+                                <Setter Property="BorderBrush" TargetName="border" Value="{DynamicResource {x:Static SystemColors.HighlightBrushKey}}"/>
+                            </Trigger>
+                            <Trigger Property="IsMouseOver" Value="true">
+                                <Setter Property="Background" TargetName="border" Value="#c0392b"/>
+                                <Setter Property="BorderBrush" TargetName="border" Value="#243412"/>
+                            </Trigger>
+                            <Trigger Property="IsPressed" Value="true">
+                                <Setter Property="Background" TargetName="border" Value="Brown"/>
+                                <Setter Property="BorderBrush" TargetName="border" Value="#ff2354"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+    </Window.Resources>
+    <Grid Background="#2980b9" >
+        <StackPanel  Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="0 10 0 0">
+            <StackPanel HorizontalAlignment="Center">
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Student RegNo" Width="100" Margin="10" />
+                    <TextBox Background="#48dbfb" Text="{Binding RegisterNumber}" Width="100" Margin="10"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Student Name" Width="100" Margin="10" />
+                    <TextBox Background="#48dbfb" Text="{Binding StudentName}" Width="100" Margin="10"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Phone Number" Width="100" Margin="10" />
+                    <TextBox Background="#48dbfb" Text="{Binding PhoneNumber}" Width="100" Margin="10"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Address" Width="100" Margin="10" />
+                    <TextBox Background="#48dbfb" Text="{Binding Address}" Width="100" Margin="10" />
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="GPA" Width="100" Margin="10" />
+                    <TextBlock Text="{Binding StudentGpa}" Width="100" Margin="10"/>
+                </StackPanel>
+                <TextBlock Text="Modules" Width="100" Margin="10" FontWeight="Bold" />
+                <StackPanel Orientation="Horizontal">
+                   
+                    <ComboBox ItemsSource="{Binding Viewmoduls}"
+                              SelectedValuePath="Id" 
+                              DisplayMemberPath="ModuleName"
+                              SelectedItem="{Binding Selectedmodule1}" Background="#5f27cd"
+                              Width="100" Margin="10"/>
+                    <Button Command="{Binding RegModuleCommand}" Content=" Add Module" Margin="10" Width="100" Style="{StaticResource RoundedButtonStyle}"/>
+
+                </StackPanel>
+            </StackPanel>
+            <StackPanel HorizontalAlignment="Center" Orientation="Horizontal">
+
+                <StackPanel >
+                    <TextBlock Text="Registed modules" Margin="10 0"/>
+                    <ListBox Background="#3498db" Height="200" SelectedItem="{Binding Selectedmodule2}"  ItemsSource="{Binding RegistedModules}"  Width="200" Margin="10">
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <StackPanel Width="180" Orientation="Horizontal" HorizontalAlignment="Left" >
+                                    <TextBlock Width="100" Margin="10" Text="{Binding ModuleName}"/>
+                                    <TextBlock Width="70" Margin="10" Text="{Binding Credit}"/>
+                                </StackPanel>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+                </StackPanel>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" >
+               
+                <Button Content="Remove Module" Command="{Binding RemoveRegModCommand}" Margin="10" Width="100" Style="{StaticResource RoundedButtonStyle}"/>
+            </StackPanel>
+            <StackPanel>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                    <Button Command="{Binding AddGradeCommand}" Content="Add Grade" Width="100" Style="{StaticResource RoundedButtonStyle}" Margin="10 0"/>
+                    <TextBox Background="#48dbfb" Text="{Binding StudentGrade}" Width="100" />
+
+                </StackPanel>
+                <Button Command="{Binding SaveCommand}" Content="Save" Margin="10" Width="80" Style="{StaticResource RoundedButtonStyle}"/>
+
+            </StackPanel>
+        </StackPanel>
+        <!--<StackPanel HorizontalAlignment="Right" >
+            <TextBlock Text="All modules" Margin="10 0"/>
+            <ListBox Height="200" BorderThickness="0" Background="Azure" SelectedItem="{Binding Selectedmodule1}"  ItemsSource="{Binding Viewmoduls}"  Width="200" Margin="10">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Width="180" Orientation="Horizontal" HorizontalAlignment="Left" >
+                            <TextBlock Width="120" Margin="10" Text="{Binding ModuleName}"/>
+                            <TextBlock Width="50" Margin="10" Text="{Binding Code}"/>
+                        </StackPanel>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+        </StackPanel>-->
+        <Button Content="X" Command="{Binding CloseWindowCommand}" Style="{StaticResource CloseButton}"  Height="23" Width="25" Margin="550 -610 0 0"/>
+    </Grid>
+</Window>
