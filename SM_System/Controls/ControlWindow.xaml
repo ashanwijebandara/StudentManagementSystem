@@ -8,9 +8,7 @@
         xmlns:iconPacks="http://metro.mahapps.com/winfx/xaml/iconpacks"
         WindowStartupLocation="CenterScreen" WindowStyle="None" AllowsTransparency="True" Background="Transparent"
         Title="{Binding Title}" Height="450" Width="580">
-    <!--<Window.DataContext>
-        <local:ControlWindowVM/>
-    </Window.DataContext>-->
+    
     <Window.Resources>
         <BooleanToVisibilityConverter x:Key="AdminVisible"/>
         <Style TargetType="Button" x:Key="RoundedButtonStyle">
