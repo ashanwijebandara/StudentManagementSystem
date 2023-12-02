@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SM_System\\SM_System\\SM_System.csproj": {}
+    "C:\\Users\\wijeb\\Documents\\GitHub\\StudentManagementSystem\\SM_System\\SM_System.csproj": {}
   },
   "projects": {
-    "D:\\SM_System\\SM_System\\SM_System.csproj": {
+    "C:\\Users\\wijeb\\Documents\\GitHub\\StudentManagementSystem\\SM_System\\SM_System.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SM_System\\SM_System\\SM_System.csproj",
+        "projectUniqueName": "C:\\Users\\wijeb\\Documents\\GitHub\\StudentManagementSystem\\SM_System\\SM_System.csproj",
         "projectName": "SM_System",
-        "projectPath": "D:\\SM_System\\SM_System\\SM_System.csproj",
+        "projectPath": "C:\\Users\\wijeb\\Documents\\GitHub\\StudentManagementSystem\\SM_System\\SM_System.csproj",
         "packagesPath": "C:\\Users\\wijeb\\.nuget\\packages\\",
-        "outputPath": "D:\\SM_System\\SM_System\\obj\\",
+        "outputPath": "C:\\Users\\wijeb\\Documents\\GitHub\\StudentManagementSystem\\SM_System\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wijeb\\AppData\\Roaming\\NuGet\\NuGet.Config",
